@@ -1,5 +1,5 @@
 # Speedy_Plane
-This is a game project inspired by flappy birds. Move through obstacles and increase your score and beat your previous score
+This is a game project inspired by flappy birds. Move through obstacles , increase your score and beat your previous score
 
 ## How the game was created
 * Player(plane) was added to the game scene
